@@ -1,0 +1,252 @@
+{
+  "albums": [
+    {
+      "name": "BAHAMAS",
+      "coverPhoto": "https://www.fodors.com/wp-content/uploads/2019/03/bahamas-safety-sized.jpg",
+      "id": 1
+    },
+    {
+      "name": "BRUNEI",
+      "coverPhoto": "https://images.idgesg.net/images/article/2018/09/the_sultan_omar_ali_saifudding_mosque_bandar_seri_begawan_brunei_southeast_asia_by_igorp1976_gettyimages-539092016_3x2_1200x800-100773415-large.jpg",
+      "id": 2
+    },
+    {
+      "name": "SAUDI ARABIA",
+      "coverPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Riyadh_Skyline.jpg/1200px-Riyadh_Skyline.jpg",
+      "id": 3
+    },
+    {
+      "name": "ICELAND",
+      "coverPhoto": "https://www.gannett-cdn.com/presto/2018/12/22/USAT/5708e7ab-1e0d-47ad-875f-3e45962f3b2c-GettyImages-1069107084.jpg",
+      "id": 4
+    },
+    {
+      "name": "GERMANY",
+      "coverPhoto": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1024,c_fill,g_auto,h_576,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170706112840-germany.jpg",
+      "id": 5
+    },
+    {
+      "name": "JAPAN",
+      "coverPhoto": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/52CUQMTWVII6TJ57ZCSDXBHOGE.jpg&w=767",
+      "id": 6
+    }
+  ],
+  "pictures": [
+    {
+      "name": "Sky View",
+      "url": "https://i.pinimg.com/474x/79/cc/34/79cc34e5d15e0536e950e4c49da60953.jpg",
+      "albumId": 1,
+      "id": 1
+    },
+    {
+      "name": "Ocean View",
+      "url": "https://www.engelvoelkers.com/images/23e2a9f9-712d-4454-b695-ccd34f1f7213/ocean-view-lot?w=576&h=432",
+      "albumId": 1,
+      "id": 2
+    },
+    {
+      "name": "Beach House View",
+      "url": "http://www.caribjournal.com/wp-content/uploads/2016/05/kamalame.jpg",
+      "albumId": 1,
+      "id": 3
+    },
+    {
+      "name": "Dock View",
+      "url": "https://www.carnival.co.uk/~/media/Images/explore/destinations/ports/carnival-the-bahamas-port-princess-cays-4.jpg",
+      "albumId": 1,
+      "id": 4
+    },
+    {
+      "name": "Jet Ski View",
+      "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/f3/32/6f/beautiful-view-from-our.jpg",
+      "albumId": 1,
+      "id": 5
+    },
+    {
+      "name": "Atlantis View",
+      "url": "https://img.theculturetrip.com/768x432/wp-content/uploads/2017/10/atlantis-resort.jpg",
+      "albumId": 1,
+      "id": 6
+    },
+    {
+      "name": "Palace View",
+      "url": "https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/12812345974_afaa4ebd95_b.jpg",
+      "albumId": 2,
+      "id": 7
+    },
+    {
+      "name": "Garden View",
+      "url": "https://images.squarespace-cdn.com/content/58ce9b5d29687fc957d50613/1557624631230-B7KAS3S1A48Y20ZX55LG/Visiting+Brunei+-+Should+you+go%2C+and+what+to+do.jpg?format=1000w&content-type=image%2Fjpeg",
+      "albumId": 2,
+      "id": 8
+    },
+    {
+      "name": "Beach Hotel View",
+      "url": "https://cdn.i.haymarketmedia.asia/?n=cei%2Fcontent%2F20110809015214_The+Empire+Hotel+%26+Country+Club%2C+Brunei.jpg&h=550&w=1920&q=100&v=20150902&c=1",
+      "albumId": 2,
+      "id": 9
+    },
+    {
+      "name": "Waterfall View",
+      "url": "https://www.beepdo.com/wp-content/uploads/2018/04/Tasek-Lama-Recreational-Park-Desumantri.jpg",
+      "albumId": 2,
+      "id": 10
+    },
+    {
+      "name": "Housing View",
+      "url": "https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzL2YxMzY0ZGJjNmNkY2ZlYThmM19HRDBERlAuanBnIl0sWyJwIiwiY29udmVydCIsIiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA4MSAtYXV0by1vcmllbnQiXSxbInAiLCJ0aHVtYiIsIjYwMHg0MDAjIl1d/GD0DFP.jpg",
+      "albumId": 2,
+      "id": 11
+    },
+    {
+      "name": "Royal Regalia Museum View",
+      "url": "https://www.onceinalifetimejourney.com/wp-content/uploads/2018/07/Inside-the-Royal-Regalia-Museum.webp",
+      "albumId": 2,
+      "id": 12
+    },
+    {
+      "name": "Qiddiyah Atrium View",
+      "url": "https://ar.vogue.me/image_provider/?w=750&h=&zc=1&q=80&cc=ffffff&src=https://en.vogue.me/wp-content/uploads/2019/09/8024_Qiddiyah_Atrium-View-copy.jpg",
+      "albumId": 3,
+      "id": 13
+    },
+    {
+      "name": "Clock Tower View",
+      "url": "https://orientalreview.org/wp-content/uploads/2019/02/Saudi-Arabia-tourist-attractions.jpg",
+      "albumId": 3,
+      "id": 14
+    },
+    {
+      "name": "Birds Eye View",
+      "url": "https://cdn.theculturetrip.com/wp-content/uploads/2019/05/h977y5-copy.jpg",
+      "albumId": 3,
+      "id": 15
+    },
+    {
+      "name": "Water View",
+      "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/65/56/00/caption.jpg",
+      "albumId": 3,
+      "id": 16
+    },
+    {
+      "name": "Nearby Jordan View",
+      "url": "https://qph.fs.quoracdn.net/main-qimg-53828452f6b6cb6740dd7d1e48bff331",
+      "albumId": 3,
+      "id": 17
+    },
+    {
+      "name": "Court Yard View",
+      "url": "https://cdn.expatwoman.com/s3fs-public/best%20things%20to%20do%20in%20saudi%20arabia%20-%20main.jpg",
+      "albumId": 3,
+      "id": 18
+    },
+    {
+      "name": "Mountian View",
+      "url": "https://t2conline.com/wp-content/uploads/2018/09/mountain-899x600.jpg",
+      "albumId": 4,
+      "id": 19
+    },
+    {
+      "name": "Forest View",
+      "url": "https://img.theculturetrip.com/fit-in/1024x/wp-content/uploads/2017/05/asbyrgi.jpg",
+      "albumId": 4,
+      "id": 20
+    },
+    {
+      "name": "Lake View",
+      "url": "https://img.theculturetrip.com/fit-in/1024x/wp-content/uploads/2017/05/jokulsarlon.jpg",
+      "albumId": 4,
+      "id": 21
+    },
+    {
+      "name": "Winter Waterfall View",
+      "url": "https://img.theculturetrip.com/fit-in/1024x/wp-content/uploads/2017/05/shutterstock_688571812.jpg",
+      "albumId": 4,
+      "id": 22
+    },
+    {
+      "name": "Hot Lagoon View",
+      "url": "https://img.theculturetrip.com/fit-in/1024x/wp-content/uploads/2017/05/shutterstock_648575413.jpg",
+      "albumId": 4,
+      "id": 23
+    },
+    {
+      "name": "Whale View",
+      "url": "https://com-travelade.imgix.net/media/ck_uploads/2018/06/02/jon-eckert-562977-unsplash.jpg?auto=format&crop=fit&fit=crop&h=500&w=800&dpr=2&q=35",
+      "albumId": 4,
+      "id": 24
+    },
+    {
+      "name": "Hotel View",
+      "url": "https://pix10.agoda.net/geo/country/101/3_101_germany_02.jpg?s=1920x",
+      "albumId": 5,
+      "id": 25
+    },
+    {
+      "name": "House On Water View",
+      "url": "https://www.planetware.com/photos-large/D/germany-miniatur-wunderland-port-of-hamburg.jpg",
+      "albumId": 5,
+      "id": 26
+    },
+    {
+      "name": "Museum Island View",
+      "url": "https://www.planetware.com/photos-large/D/germany-museum-island-berlin.jpg",
+      "albumId": 5,
+      "id": 27
+    },
+    {
+      "name": "Park And Palace View",
+      "url": "https://www.planetware.com/photos-large/D/germany-sanssouci-park-palace-potsdam.jpg",
+      "albumId": 5,
+      "id": 28
+    },
+    {
+      "name": "Flower Field View",
+      "url": "https://www.planetware.com/photos-large/D/germany-insel-mainau.jpg",
+      "albumId": 5,
+      "id": 29
+    },
+    {
+      "name": "Cochem Town View",
+      "url": "https://mk0travelawayrru2xew.kinstacdn.com/wp-content/uploads/2013/04/cochem-town-germany.jpg",
+      "albumId": 5,
+      "id": 30
+    },
+    {
+      "name": "Temple View",
+      "url": "https://www.planetware.com/photos-large/JPN/japan-attractions-nara.jpg",
+      "albumId": 6,
+      "id": 31
+    },
+    {
+      "name": "Shrine View",
+      "url": "https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/6/2016/01/Miyajima-Floating-shrine.jpg",
+      "albumId": 6,
+      "id": 32
+    },
+    {
+      "name": "Ancient City View",
+      "url": "https://img.washingtonpost.com/rf/image_480w/2010-2019/WashingtonPost/2017/08/17/Travel/Images/japan0820.JPG?uuid=X8PjOIKMEeeeeiD6jXoNtg",
+      "albumId": 6,
+      "id": 33
+    },
+    {
+      "name": "Bamboo Tree View",
+      "url": "https://images.squarespace-cdn.com/content/v1/55ee34aae4b0bf70212ada4c/1552410168001-AX1O0VINFLNNVZ6B7T1W/ke17ZwdGBToddI8pDm48kJXmn0t5g9igFqtln3STXox7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3rv7sVmavAApj1cuSnuUyXzqqXjS3CfNDSuuf31e0tVEH80XajmsZNHgH4h-Uv1LccvS58OPYE1uvS8Nr3igSLXfm94mvxIegjszx2D480jA/image-asset.jpeg",
+      "albumId": 6,
+      "id": 34
+    },
+    {
+      "name": "Imperial View",
+      "url": "https://www.planetware.com/photos-large/JPN/japan-attractions-imperial-palace.jpg",
+      "albumId": 6,
+      "id": 35
+    },
+    {
+      "name": "Kinkaku-ji View",
+      "url": "https://cdn.mobal.com/blog/wp-content/uploads/2017/11/xphoto-1450740199001-78e928502994-1024x679.jpg.pagespeed.ic.US3xXIMw9G.jpg",
+      "albumId": 6,
+      "id": 36
+    }
+  ]
+}
