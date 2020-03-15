@@ -16,3 +16,7 @@ I'm really thankful that there is really good documentation online as well as a 
 * Deepened Knowledge on React
 * Increased Knowledge on React Router
 
+
+![React Photo Album 1](React Photo Album 1 .png)
+![React Photo Album 2](React Photo Album 2.png)
+![React Photo Album 3](React Photo Album 3.png)
