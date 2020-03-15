@@ -18,5 +18,5 @@ I'm really thankful that there is really good documentation online as well as a 
 
 
 ![React Photo Album 1](reactPhotoAlbum1.png)
-![React Photo Album 2](React Photo Album 2.png)
-![React Photo Album 3](React Photo Album 3.png)
+![React Photo Album 2](reactPhotoAlbum2.png)
+![React Photo Album 3](reactPhotoAlbum3.png)
